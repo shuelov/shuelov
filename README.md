@@ -1,8 +1,12 @@
 
-# Welcome to @shuelov's area
+# Welcome to shuelov's area
 ##  👋 Hey there!
 I am game dev who enjoy creating game and also have passion for learning new things.
 
+Bachelor of Science in Computer
+Interests : Cat, Home, Exercise, Travel, Gameplay
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fshuelov&count_bg=%23953DC8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mikeng1114@gmail.com)](mailto:mikeng1114@gmail.com)
 
 ### test title
 | Tables        | Are           | Cool  |
@@ -34,14 +38,11 @@ var s = "Say Something";
 
 
 <!-- <div align=center> -->
- 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fshuelov&count_bg=%23953DC8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shuelov&theme=buefy&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shuelov&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
- [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mikeng1114@gmail.com)](mailto:mikeng1114@gmail.com)
 
 <!-- </div> -->
   
