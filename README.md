@@ -1,7 +1,10 @@
 
 # Welcome to @shuelov's area
-##  👋 Hey, I'm @shuelov
-### I am game dev who enjoy creating game and also have passion for learning new things.
+##  👋 Hey there!
+I am game dev who enjoy creating game and also have passion for learning new things.
+
+
+### test title
 | Tables        | Are           | Cool  |
 | ------------- |:-------------:| -----:|
 | col 3 is      | right-aligned | $1600 |
