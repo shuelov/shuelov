@@ -4,9 +4,9 @@
 ##  👋 Hey there!
  I am game dev from South Korea who enjoy creating game and also have passion for learning new things. I had chance to learn c, c++, c# and also how to make game during Nov.2017 to Apri.2018 through institution. I was in my 3rd year of University studying Architecture before but after that experience, it influenced me to change major to the computer science because I wanted to be a game developer.:computer: I'm pretty sure game development fits my aptitude. 
 
- I usually make games by using Unity3D. I worked on few mobile and pc games. I'm currently 
+ I usually make games by using Unity3D. I worked on few mobile and pc games. I'm interested in develop VR game.
 
-💖 Interests : Cat, Home, Exercise, Traveling, Playing Game
+💖 What I'm into : :cat:, :house:, :muscle:, :airplane:, :video_game:
 
 
 ### test title
