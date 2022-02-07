@@ -6,6 +6,8 @@
 <!-- 
  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mikeng1114@gmail.com)](mailto:mikeng1114@gmail.com)
 -->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shuelov)](https://github.com/anuraghazra/github-readme-stats)
+
 <!-- </div> -->
   
 <!--
