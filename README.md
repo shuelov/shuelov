@@ -1,3 +1,4 @@
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fshuelov&count_bg=%23953DC8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)   [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mikeng1114@gmail.com)](mailto:mikeng1114@gmail.com)
 
 # Welcome to shuelov's area
 ##  👋 Hey there!
@@ -6,7 +7,6 @@ I am game dev who enjoy creating game and also have passion for learning new thi
 Bachelor of Science in Computer
 Interests : Cat, Home, Exercise, Travel, Gameplay
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fshuelov&count_bg=%23953DC8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mikeng1114@gmail.com)](mailto:mikeng1114@gmail.com)
 
 ### test title
 | Tables        | Are           | Cool  |
