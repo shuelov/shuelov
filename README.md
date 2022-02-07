@@ -24,13 +24,9 @@ var s = "Say Something";
 
 
 <!-- Lists-->
-* Unordered list can use asterisks
-* test
-- Or minuses
-- yam
-+ Or pluses
-+ num
-
+* this
+- that
++ these
 
 
 <!-- <div align=center> -->
