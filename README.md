@@ -1,6 +1,6 @@
 
+# Welcome to @shuelov's area
 ##  👋 Hey, I'm @shuelov
-# 👋 Hi, Welcome to @shuelov's area
 ### I am game dev who enjoy creating game and also have passion for learning new things.
 | Tables        | Are           | Cool  |
 | ------------- |:-------------:| -----:|
