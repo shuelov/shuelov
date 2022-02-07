@@ -18,7 +18,7 @@ Quote break.
 var s = "Say Something";
 ```
 
-<!-- Links
+<!-- Links-->
 
 [I'm an inline-style link](https://www.google.com)
 [I'm an inline-style link with title](https://www.google.com "Google's Homepage")
@@ -34,7 +34,7 @@ Some text to show that the reference links can follow later.
 [1]: http://slashdot.org
 [link text itself]: http://www.reddit.com
 
--->
+
 
 
 
