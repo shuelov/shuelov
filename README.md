@@ -1,9 +1,6 @@
-Alt-H1 👋 Hey, I'm @shuelov
-Alt-H2 👋 Hey, I'm @shuelov
 ### 👋 Hey, I'm @shuelov
-#### 👋 Hey, I'm @shuelov
-##### 👋 Hey, I'm @shuelov
-###### 👋 Hey, I'm @shuelov
+## 👋 Hey, I'm @shuelov
+# 👋 Hey, I'm @shuelov
 
 <!-- <div align=center> -->
  
