@@ -9,7 +9,19 @@
 💖 What I'm into : :cat:, :house:, :muscle:, :airplane:, :video_game:
 
 
-### test title
+
+
+<!-- <div align=center> -->
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shuelov&theme=buefy&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shuelov&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
+<!-- </div> -->
+  
+  <!--
+  ### test title
 | Tables        | Are           | Cool  |
 | ------------- |:-------------:| -----:|
 | col 3 is      | right-aligned | $1600 |
@@ -37,15 +49,7 @@ var s = "Say Something";
 - that
 + these
 
-
-<!-- <div align=center> -->
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shuelov&theme=buefy&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shuelov&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-
-<!-- </div> -->
+-->  
   
 <!--
 **shuelov/shuelov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
