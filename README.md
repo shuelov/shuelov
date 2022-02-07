@@ -25,7 +25,7 @@ var s = "Say Something";
 
 <!-- Lists-->
 * Unordered list can use asterisks
-test
+* test
 - Or minuses
 + Or pluses
 
